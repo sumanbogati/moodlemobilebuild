@@ -21364,7 +21364,8 @@ angular.module('mm.core')
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
-    "customurlscheme": "moodlemobile"
+	"demo_sites": {},
+    "customurlscheme": "moodlemobile",
     "siteurl": "http://testfour.moodlehub.com"
 }
 );
