@@ -1,5 +1,5 @@
 {
-    "app_id" : "com.vidyamantra.mm2.custom",
+    "app_id" : "com.vidyamantra.mm2.suman",
     "versioncode" : "2010",
     "versionname" : "2.9",
     "cache_expiration_time" : 300000,
@@ -8,6 +8,6 @@
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
-    "customurlscheme": "moodlemobile"
+    "customurlscheme": "moodlemobile",
     "siteurl": "http://testfour.moodlehub.com"
 }
